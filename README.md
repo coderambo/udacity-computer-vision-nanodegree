@@ -1,2 +1,2 @@
 # udacity-computer-vision-nanodegree
-deep learning computer nanodegree
+Computer Vision and Deep learning 
